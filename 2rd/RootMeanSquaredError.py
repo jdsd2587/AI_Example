@@ -1,3 +1,5 @@
+import numpy as np
+
 ab = [3, 76]
 data = [[2, 81], [4, 93], [6, 91], [8, 97]]
 x = [i[0] for i in data]
